@@ -14,7 +14,7 @@ Fool's Gallery was first imagined by Andrew Kang in 2020 during the COVID-19 soc
 Fool's Gallery is a four player competative game with a social deduction component.
 Each fool's goal is to get the most paintings into the gallery.
 There are 5 collections.
-Scan the QR code with your smart phone..
+Scan the QR code with your smart phone...*
 
 
 ### Support
