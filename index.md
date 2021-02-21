@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the Fool's Gallery Board Game Official Website
 
-You can use the [editor on GitHub](https://github.com/emilyrobertskang/foolsgallerywebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+“Everything you can imagine is real.”
+― Painter Pablo Picasso
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“Reality is easy. It’s deception that’s the hard work.”
+― Musician Lauryn Hill
 
-### Markdown
+### About Fool's Gallery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fool's Gallery was first imagined by Andrew Kang in 2020 during the COVID-19 social distancing. After months of losing to Emily at board games, card games, and chess he decided to create his own board game, one that he could actually win...
 
 ```markdown
-Syntax highlighted code block
+Fool's Gallery is a four player competative game with a social deduction component.
 
-# Header 1
-## Header 2
-### Header 3
+INSERT COMPLETE DIRECTIONS HERE 
 
-- Bulleted
-- List
+Each fool's goal is to get the most paintings into the gallery.
 
-1. Numbered
-2. List
+There are 5 collections.
 
-**Bold** and _Italic_ and `Code` text
+Scan the QR code with your smart phone..
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Support
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emilyrobertskang/foolsgallerywebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact Emily at emroberts.95@gmail.com
