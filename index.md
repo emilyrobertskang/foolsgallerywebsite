@@ -8,7 +8,9 @@
 
 ### About Fool's Gallery
 
-Fool's Gallery was first imagined by Andrew Kang in 2020 during the COVID-19 social distancing. After months of losing to Emily at board games, card games, and chess he decided to create his own board game, one that he could actually win...
+Fool's Gallery was first imagined by Andrew Kang in 2020 during COVID-19 social distancing. After months of losing to Emily at board games, card games, and chess, he decided to create his own board game, one that he could actually win... 
+
+Emily was not satifisfied to sit idly by and let Andrew have all the fun, plus he needed her technical prowess to create a website and QR codes for the game, so she agreed to help, for a 53% stake in the company.
 
 *INSERT COMPLETE DIRECTIONS HERE 
 Fool's Gallery is a four player competative game with a social deduction component.
