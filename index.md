@@ -1,6 +1,6 @@
 # Fool's Gallery 
 
-## Welcome to the Fool's Gallery Board Game Official Website
+## Welcome to the Fool's Gallery Board Game Official Website (Beta Version)
 
 >“Everything you can imagine is real.”
 ― Painter Pablo Picasso
