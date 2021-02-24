@@ -16,6 +16,8 @@ A band of international forgers have been creating fake paintings and circulatin
 
 Do you want the fame and glory that comes with being an benefactor of the Fool's Gallery? Is this more important to you than having authentic art in the gallery? Good forgers are very talented artists too afterall...
 
+![alt text](La Source, The Spring, Francis Picabia, 1912.jpg?raw=true "La Source, The Spring, Francis Picabia, 1912")
+
 
 ### How to Play
 
