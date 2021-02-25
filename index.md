@@ -47,5 +47,4 @@ A: Public domain and Creative Commons collections on websites including but not 
 
 
 ### Support
-
-Contact Emily at emroberts.95@gmail.com
+Email address soon to come, leave an issue on our github in the meantime.
