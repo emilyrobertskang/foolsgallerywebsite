@@ -1,5 +1,3 @@
-# Fool's Gallery 
-
 ## Welcome to the Fool's Gallery Board Game Official Website (Beta Version)
 
 >“Everything you can imagine is real.”
