@@ -48,3 +48,6 @@ A: Public domain and Creative Commons collections on websites including but not 
 
 ### Support
 Email address soon to come, leave an issue on our github in the meantime.
+
+
+![alt text](LUFT_HOUSE_STUDIOS_LOGO2.png?raw=true "Luft House Studios Logo, white font, orange square")
