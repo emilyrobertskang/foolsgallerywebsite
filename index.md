@@ -54,4 +54,4 @@ Email address soon to come, leave an issue on our github in the meantime.
 ## Check out our other games at [EndCode.us](https://endcode.us/)
 
 
-![alt text](encode studios logo 1.png?raw=true "EndCode Studios Logo - Old, links to endcode.us")
+![alt text](encode studios logo 1.png?raw=true "EndCode Studios Logo - Old, links to endcode.us")(https://endcode.us/)
