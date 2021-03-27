@@ -1,7 +1,7 @@
 Your Artwork Card is... 
-  **FAKE!**
+  **REAL!**
  
- ![alt text](ArtworAbundance_Fake[face,1].png?raw=true "Artwork Card")  
+ ![alt text](ArtworLa_Source_Real[face,1].png?raw=true "Artwork Card")  
  
  
  
