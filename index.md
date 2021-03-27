@@ -50,5 +50,8 @@ A: Public domain and Creative Commons collections on websites including but not 
 ### Support
 Email address soon to come, leave an issue on our github in the meantime.
 
+### Fool's Gallery is the Premier Game of EndCode Studios!
+## Check out our other games at [EndCode.us](https://endcode.us/)
 
-![alt text](LUFT_HOUSE_STUDIOS_LOGO2.png?raw=true "Luft House Studios Logo, white font, orange square")
+
+![alt text](encode studios logo 1.png?raw=true "EndCode Studios Logo - Old, links to endcode.us")
