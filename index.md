@@ -53,5 +53,4 @@ Email address soon to come, leave an issue on our github in the meantime.
 ### Fool's Gallery is the Premier Game of EndCode Studios!
 ## Check out our other games at [EndCode.us](https://endcode.us/)
 
-
-![EndCode Studios Logo - Old, links to endcode.us (end_code_studios_old_logo.png?raw=true)](https://endcode.us/)
+![alt text(https://endcode.us/)](end_code_studios_old_logo.png?raw=true "EndCode Studios Old Logo")
