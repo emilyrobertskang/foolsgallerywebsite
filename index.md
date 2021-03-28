@@ -48,7 +48,7 @@ A: Public domain and Creative Commons collections on websites including but not 
 
 
 ### Support
-Email address soon to come, leave an issue on our github in the meantime.
+Email emily@endcode.us for help!
 
 ### Fool's Gallery is the Premier Game of EndCode Studios!
 ## Check out our other games at [endcode.us](https://endcode.us/)
