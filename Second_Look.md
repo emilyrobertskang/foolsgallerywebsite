@@ -1,7 +1,6 @@
 This is an Event Card: 
  
  ![alt text](Second_Look.png?raw=true "Event Card")  
- Second Look 
  Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
  Check out our other games at [endcode.us](https://endcode.us/)
