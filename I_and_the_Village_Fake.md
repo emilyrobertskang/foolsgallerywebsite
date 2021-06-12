@@ -1,10 +1,8 @@
-Your Artwork Card is... 
-  **FAKE!**
+This art is... 
+ **FAKE**! 
  
- ![alt text](ArtworI_and_the_Village_Fake[face,1].png?raw=true "Artwork Card")  
+ ![alt text](I_and_the_Village_Fake.png?raw=true "Artwork Card")  
  
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
- 
- 
- 
- Check out our other games at [EndCode.us](https://endcode.us/)
+ Check out our other games at [endcode.us](https://endcode.us/)

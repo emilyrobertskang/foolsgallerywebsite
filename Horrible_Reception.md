@@ -1,9 +1,7 @@
 This is an Event Card: 
  
- ![alt text](Horrible Reception?raw=true "Event Card")  
- 
- 
- 
- 
+ ![alt text](Horrible_Reception.png?raw=true "Event Card")  
+ Horrible Reception 
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
  Check out our other games at [endcode.us](https://endcode.us/)

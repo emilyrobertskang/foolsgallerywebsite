@@ -1,10 +1,8 @@
-Your Artwork Card is... 
-  **REAL!**
+This art is... 
+ **REAL**! 
  
- ![alt text](ArtworBlvd_Montmartre_at_Night_Real[face,1].png?raw=true "Artwork Card")  
+ ![alt text](Blvd_Montmartre_at_Night_Real.png?raw=true "Artwork Card")  
  
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
- 
- 
- 
- Check out our other games at [EndCode.us](https://endcode.us/)
+ Check out our other games at [endcode.us](https://endcode.us/)

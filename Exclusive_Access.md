@@ -1,9 +1,7 @@
 This is an Event Card: 
  
- ![alt text](Exclusive Access?raw=true "Event Card")  
- 
- 
- 
- 
+ ![alt text](Exclusive_Access.png?raw=true "Event Card")  
+ Exclusive Access 
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
  Check out our other games at [endcode.us](https://endcode.us/)

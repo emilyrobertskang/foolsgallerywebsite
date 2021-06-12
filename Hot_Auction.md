@@ -1,9 +1,7 @@
 This is an Event Card: 
  
- ![alt text](Hot Auction?raw=true "Event Card")  
- 
- 
- 
- 
+ ![alt text](Hot_Auction.png?raw=true "Event Card")  
+ Hot Auction 
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
  Check out our other games at [endcode.us](https://endcode.us/)

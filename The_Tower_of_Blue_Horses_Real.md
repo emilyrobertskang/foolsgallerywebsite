@@ -1,10 +1,8 @@
-Your Artwork Card is... 
-  **REAL!**
+This art is... 
+ **REAL**! 
  
- ![alt text](ArtworThe_Tower_of_Blue_Horses_Real[face,1].png?raw=true "Artwork Card")  
+ ![alt text](The_Tower_of_Blue_Horses_Real.png?raw=true "Artwork Card")  
  
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
- 
- 
- 
- Check out our other games at [EndCode.us](https://endcode.us/)
+ Check out our other games at [endcode.us](https://endcode.us/)

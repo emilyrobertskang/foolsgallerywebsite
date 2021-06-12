@@ -1,10 +1,8 @@
-Your Artwork Card is... 
-  **REAL!**
+This art is... 
+ **REAL**! 
  
- ![alt text](ArtworWanderer_Above_Sea_of_Fog_Real[face,1].png?raw=true "Artwork Card")  
+ ![alt text](Wanderer_Above_Sea_of_Fog_Real.png?raw=true "Artwork Card")  
  
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
- 
- 
- 
- Check out our other games at [EndCode.us](https://endcode.us/)
+ Check out our other games at [endcode.us](https://endcode.us/)

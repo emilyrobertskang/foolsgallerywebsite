@@ -1,9 +1,7 @@
 This is an Event Card: 
  
- ![alt text](Unfinished Business?raw=true "Event Card")  
- 
- 
- 
- 
+ ![alt text](Unfinished_Business.png?raw=true "Event Card")  
+ Unfinished Business 
+ Check [fools.gallery](https://fools.gallery/) website for FAQ's and more! 
  
  Check out our other games at [endcode.us](https://endcode.us/)
